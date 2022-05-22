@@ -18,10 +18,8 @@
   <package id="FiraCode" version="6.2" />
   <package id="git" version="2.36.0" />
   <package id="git.install" version="2.36.0" />
-  <package id="github-desktop" version="3.0.0" />
   <package id="GoogleChrome" version="101.0.4951.67" />
   <package id="greenshot" version="1.2.10.6" />
-  <package id="intellijidea-ultimate" version="2022.1.1" />
   <package id="irfanview" version="4.60" />
   <package id="KB2919355" version="1.0.20160915" />
   <package id="KB2919442" version="1.0.20160915" />
